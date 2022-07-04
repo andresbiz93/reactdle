@@ -1,4 +1,4 @@
-const WORD_LENGTH = 5;
+export const WORD_LENGTH = 5;
 
 interface WordRowProps{
     letters : string;
